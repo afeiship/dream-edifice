@@ -5,3 +5,4 @@
 - [ ] [rails_curd](https://github.com/afeiship/rails_curd)
 - [ ] [rails_posts](https://github.com/afeiship/rails_posts)
 - [ ] [rails_users](https://github.com/afeiship/rails_users)
+- [ ] [rails_blog](https://github.com/afeiship/rails_blog)
