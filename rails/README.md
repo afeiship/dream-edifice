@@ -5,6 +5,7 @@
 - [x] [rails_blog](https://github.com/afeiship/rails_blog)
 - [x] [rails_bulma](https://github.com/afeiship/rails_bulma)
 - [ ] [rails_category](https://github.com/afeiship/rails_category)
+- [ ] [rails_links](https://github.com/afeiship/rails_links)
 - [ ] [rails_curd](https://github.com/afeiship/rails_curd)
 - [ ] [rails_posts](https://github.com/afeiship/rails_posts)
 - [ ] [rails_users](https://github.com/afeiship/rails_users)
